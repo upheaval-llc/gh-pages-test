@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "/gh-pages/public"
 title: "Stackbit Libris Theme"
 page_load_js: "assets/js/main.js"
 params:
