@@ -200,7 +200,7 @@ models:
             - section_docs
             - section_grid
             - section_hero
-  blog: 
+  blog:
     type: page
     label: Blog
     layout: blog
@@ -484,7 +484,7 @@ models:
             name: accent2
             label: accent 2
 stackbit_banner:
-  show_banner: true
+  show_banner: false
   name: Libris
   create_url: 'https://app.stackbit.com/create?theme=libris'
   github_url: 'https://github.com/stackbithq/stackbit-theme-libris'
